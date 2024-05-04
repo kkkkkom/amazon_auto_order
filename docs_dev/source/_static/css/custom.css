@@ -1,0 +1,24 @@
+.page-main {
+ width: 90% !important;
+}
+
+/*.page-main-inner {*/
+/* width: 90% !important;*/
+/*}*/
+
+/*.py {*/
+/*    color: black !important;*/
+/*    background: lightgray;*/
+/*}*/
+
+blockquote {
+    background: #82BD54 !important;
+}
+
+ul li {
+    list-style-type: circle;
+}
+
+body {
+    font-family: "Avenir";
+}
